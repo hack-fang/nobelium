@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'hack-fang 的blog',
+  title: 'hack-fang的博客',
   author: 'hack-fang',
   email: 'kaifang.1995@gmail.com',
   link: 'https://hack-fang.vercel.app',
